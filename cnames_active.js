@@ -38,6 +38,7 @@
  */
 
 var cnames_active = {
+  "xen": "https://xenxpert.github.io/"
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
@@ -3625,7 +3626,6 @@ var cnames_active = {
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes"
-  "xen": "https://xenxpert.github.io/"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
